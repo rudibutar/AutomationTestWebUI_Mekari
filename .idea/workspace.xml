@@ -4,14 +4,7 @@
     <option name="SPLITTER_PROPORTION" value="0.814876" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac60243e-e58d-4506-9a33-3e74ea9054cf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Features/Web UI/feature/SignUp.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Features/Web UI/pages/SignUp_page.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Features/Web UI/step_definitions/SignUp_steps.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cucumber_SignIn.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cucumber.yml" afterDir="false" />
-    </list>
+    <list default="true" id="ac60243e-e58d-4506-9a33-3e74ea9054cf" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,7 +144,7 @@
       <workItem from="1572146011689" duration="2022000" />
       <workItem from="1572156134323" duration="6647000" />
       <workItem from="1572188883609" duration="593000" />
-      <workItem from="1572247354564" duration="4913000" />
+      <workItem from="1572247354564" duration="5522000" />
     </task>
     <servers />
   </component>
